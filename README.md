@@ -17,13 +17,18 @@ Hi, I'm Shivam Jain!, a passionate self-taught Frontend Developer 🚀 from Indi
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving myself;
-- 🌱 I’m currently learning full stack web development (Node + GraphQL);
+- 🌱 I’m currently learning everything :smiley:;
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ishivamjain](https://www.linkedin.com/in/ishivam/);
-- ⚡ Fun fact: I am a Coder by Profession and Singer by :heart: Lets do Jammin sometime :wink:;
+- ⚡ Fun fact: I am a Singer by :heart: Lets do collab sometime :wink:;
+
+**Programming Handles:**
+- [Hackerrank](https://www.hackerrank.com/jainshivam01)
+- [Leetcode](https://leetcode.com/shivamjain/)
 
 **Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -33,5 +38,4 @@ Hi, I'm Shivam Jain!, a passionate self-taught Frontend Developer 🚀 from Indi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
