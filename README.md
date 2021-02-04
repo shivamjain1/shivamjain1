@@ -2,7 +2,7 @@
 <a href="https://twitter.com/ishivamjain">
   <img align="left" alt="Shivam Jain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ishivam/">
+<a href="https://www.linkedin.com/in/ishivamjain/">
   <img align="left" alt="Shivam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -20,7 +20,7 @@ Hi, I'm Shivam Jain!, a passionate self-taught Frontend Developer 🚀 from Indi
 - 🌱 I’m currently learning everything :smiley:;
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ishivamjain](https://www.linkedin.com/in/ishivam/);
+- 📫 How to reach me: [@ishivamjain](https://www.linkedin.com/in/ishivamjain/);
 - ⚡ Fun fact: I am a Singer by :heart: Lets do collab sometime :wink:;
 
 **Programming Handles:**
