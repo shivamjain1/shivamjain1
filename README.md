@@ -1,5 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 ![](https://visitor-badge.glitch.me/badge?page_id=shivamjain1.shivamjain1)
 
 <br />
@@ -16,9 +15,6 @@ Hi, I'm Shivam Jain!, a passionate self-taught Frontend Developer 🚀 from Indi
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ishivamjain](https://www.linkedin.com/in/ishivamjain/);
 - ⚡ Fun fact: I am a Singer by :heart: Lets do collab sometime :wink:;
-
-**Programming Handles:**
-- [Hackerrank](https://www.hackerrank.com/jainshivam01)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
